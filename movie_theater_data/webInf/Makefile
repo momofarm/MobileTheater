@@ -1,0 +1,3 @@
+clear:
+	killall python
+
