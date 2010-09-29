@@ -1,0 +1,21 @@
+
+few info for source code:
+
+	phonetheater : A Qt application for show movie theater schedule. 
+
+	movie_theater_data : 	Backend with database support for phonetheater, runs on Python and web.py web framework.
+				If you need to use it, you may need to install few framework to run.
+
+	DISCALMER:
+			This is just a small project for myself, I am willing to give these code out for FREE.
+			And you may use it with business application, with no warranty from myself.
+			If this program cause any damage/problem to your business, that's your own business.
+				
+			Thanks for viewing this small project of me, it's interesting to write some application 
+			mixing python/C++/mysql  these stuff, and I do consider a great experience.
+
+			I may maintain this project later if I have time. So there may be any update at any time.
+			Just use git's system to track updates :)
+
+			
+			
